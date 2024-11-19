@@ -1,5 +1,5 @@
 
-MIT License
+Proprietary License
 
 Copyright (c) 2023 Oleksii Hrachov
 
