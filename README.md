@@ -98,7 +98,7 @@ The **AI-Powered Plant Monitoring System** automates and optimizes plant care by
 
 ## 📊 Visualization
 
-![Sensor Data Graph](https://i.ibb.co/KNjf6jH/ezgif-6-5641bad7ae.gif)
+![Sensor Data Graph](https://i.ibb.co/bFk65c9/Green-Futuristic-Offline-Stream-Twitch-Offline-Banner-20241118-223252-0000.jpg)
 
 ---
 
