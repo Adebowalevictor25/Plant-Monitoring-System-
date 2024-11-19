@@ -1,7 +1,7 @@
 
 # 🌱 AI-Powered Plant Monitoring System
 
-![Plant Monitoring](https://i.ibb.co/fd0NFf3/Green-Futuristic-Offline-Stream-Twitch-Offline-Banner-20241118-204513-0000.jpg)
+![Plant Monitoring](https://i.ibb.co/Fbjj6c6/Green-Futuristic-Offline-Stream-Twitch-Offline-Banner-20241118-211805-0000.jpg)
 
 # 📖 Overview
 The **AI-Powered Plant Monitoring System** automates and optimizes plant care by integrating IoT sensors, AI-based health analysis, and a user-friendly web/Telegram interface. Designed for smart gardening enthusiasts, researchers, or anyone who wants healthier plants with minimal effort.
@@ -98,7 +98,7 @@ The **AI-Powered Plant Monitoring System** automates and optimizes plant care by
 
 ## 📊 Visualization
 
-![Sensor Data Graph](https://via.placeholder.com/800x400?text=Sensor+Data+Graph)
+![Sensor Data Graph](https://i.ibb.co/6ZvGWYm/Green-Futuristic-Offline-Stream-Twitch-Offline-Banner-20241118-211142-0000.jpg)
 
 ---
 
